@@ -599,6 +599,8 @@ small{
   }
   .writing{
     padding-top: 25%;
+    margin-left: 10%;
+    margin-right:auto;
   }
 } 
 @media (max-width: 800px){
