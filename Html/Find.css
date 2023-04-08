@@ -680,7 +680,7 @@ canvas {
       min-height: 400px;
     }
     .chartOfCost{
-    width: 80%;
+    width: 100%;
   }
   #pie-of-cost{
     flex-direction: column;
