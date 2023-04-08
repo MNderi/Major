@@ -176,6 +176,7 @@ const costChart= new Chart(cpcanvas,{
         ]
       },
       options: {
+	maintainAspectRatio:false,
         legend: { display: false },
         title: {
           display: true,
@@ -202,6 +203,7 @@ const pieChart= new Chart(pcanvas,{
         ]
       },
       options: {
+	 maintainAspectRatio:true,
         legend: { display: true },
         title: {
           display: true,
@@ -263,6 +265,7 @@ const costChart= new Chart(comcanvas,{
       ]
     },
     options: {
+      maintainAspectRatio:false,
       legend: { display: true },
       title: {
         display: true,
