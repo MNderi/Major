@@ -30,7 +30,7 @@ body{
 }
 header{
   min-height: 110vh;
-  background-image: url("Images/Bback.jpg'");
+  background-image: url("./Images/Bback.jpg'");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -727,7 +727,7 @@ small{
     display: flex;
     flex-direction: column;
     margin-bottom: 100px;
-    background-image: url('Marta.jpeg');
+    background-image: url('./Images/Marta.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
