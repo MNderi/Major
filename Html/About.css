@@ -21,7 +21,7 @@ body{
   
   header{
     min-height: 90vh;
-    background-image: url('https://www.pexels.com/photo/low-angle-shot-of-st-paul-s-cathedral-between-glass-buildings-2815025/');
+    background-image: url('Images/Bback.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -432,7 +432,7 @@ body{
   transform: scale(1.4);
 }
 .contact{
-  background-image: url('https://unsplash.com/photos/FWle_UeZ7RQ');
+  background-image: url('Images/Cities.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -476,7 +476,7 @@ body{
 .container-fluid{
   text-align: center;
   width: 100%;
-  background-image: url('https://unsplash.com/photos/tMzCrBkM99Y');
+  background-image: url('Images/Contact.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
