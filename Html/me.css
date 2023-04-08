@@ -30,7 +30,7 @@ body{
 }
 header{
   min-height: 110vh;
-  background-image: url("./Images/Bback.jpg'");
+  background-image: url("./Images/Bback.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
